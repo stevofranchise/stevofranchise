@@ -5,7 +5,7 @@ My goal is to enhance cloud computing and cybersecurity skills.
 
 Here is a quick professional Bio...
 
-System Administration
+💻 System Administration
 ------------------------
 * Launched and maintained over 800 virtual machines across Red Hat (RHEL), CentOS, macOS, and Windows/PC environments.
 * Leveraged Linux Bash/CLI and Ansible for configuration, patching, upgrades, and user management
@@ -16,12 +16,12 @@ System Administration
   * iLO, iDRAC, XClarity
 * Supported Active Directory and FortiNet VPNs
 
-Cloud Computing
+☁ Cloud Computing
 ---------------
 * Launched and managed AWS environments to deliver scalable solutions and support ad-hoc projects
   * EC2, Amplify, Cognito, Lambda, IAM, DynamoDB, API Gateway, S3
 
-CyberSecurity
+🔐 CyberSecurity
 --------------
 * Configured and launched CrowdStrike Falcon Complete MDR (Managed Detection & Response) environment
 * Supported periodic policy and vulnerability checks
@@ -30,11 +30,11 @@ CyberSecurity
  * CrowdStrike implementation
  * Kali Linux Pen-Test OS
 
-Currently At-Bat
+⚾️ Currently At-Bat
 ---
 * CompTIA Security+ Certification (Estimated: November 2025)
 
-On-Deck
+⏭️ On-Deck
 ---
 * CompTIA Network+ Certification (Estimated: January 2026)
 
