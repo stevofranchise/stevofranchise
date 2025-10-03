@@ -1,6 +1,9 @@
 # Hello, There 👋
 
 I am proficient in Cloud Computing, System Administration, and Cybersecurity.
+My goal is to enhance cloud computing and cybersecurity skills.
+
+Here is a quick professional Bio...
 
 System Administration
 ------------------------
@@ -16,31 +19,27 @@ System Administration
 Cloud Computing
 ---------------
 * Launched and managed AWS environments to deliver scalable solutions and support ad-hoc projects
-  * EC2
-  * Amplify
-  * Cognito
-  * Lambda
-  * IAM
-  * DynamoDB
-  * API Gateway
-  * S3
+  * EC2, Amplify, Cognito, Lambda, IAM, DynamoDB, API Gateway, S3
 
 CyberSecurity
 --------------
 * Configured and launched CrowdStrike Falcon Complete MDR (Managed Detection & Response) environment
 * Supported periodic policy and vulnerability checks
-* Served as primary liaison and SME for proprietary applications, streamlining processes, presenting technical proposals, and collaborating with global teams across NAMER, LATAM, EMEA, and APAC.
+* Spearheaded cybersecurity projects:
+ * SOC audits
+ * CrowdStrike implementation
+ * Kali Linux Pen-Test OS
 
 Currently At-Bat
 ---
-* CompTIA Security+ certification (November 2025)
+* CompTIA Security+ Certification (Estimated: November 2025)
 
 On-Deck
 ---
-* CompTIA Network+ certification (January 2026)
+* CompTIA Network+ Certification (Estimated: January 2026)
 
 
-to enhance cloud computing and cybersecurity skills.
+
 
 
 
