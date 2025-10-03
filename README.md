@@ -3,6 +3,7 @@
 I am passionate about Cloud Computing, System Administration, and Cybersecurity.
 My goal is to enhance my skills in each of those areas.
 
+*WRITE MORE*
 ---
 
 
@@ -23,7 +24,7 @@ My goal is to enhance my skills in each of those areas.
 * Launched and maintained over 800 virtual machines across Red Hat (RHEL), CentOS, macOS, and Windows/PC environments.
 * Leveraged Linux Bash/CLI and Ansible for configuration, patching, upgrades, and user management
 * Supported MDM migration and solutions (JAMF, Cisco Meraki, Intune)
-* Configured ser provisioning and Single Sign-On (SSO)
+* Configured and provisioned Single Sign-On (SSO)
 * Monitored infrastructure using SolarWinds, Datadog, Grafana, and CheckMK
 * Supported hypervisors:
   * iLO, iDRAC, XClarity
