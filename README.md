@@ -6,6 +6,12 @@ My goal is to enhance my skills in each of those areas.
 *WRITE MORE*
 ---
 
+| Project Name                         | Description                                         |
+|--------------------------------------|-----------------------------------------------------|
+| AWS Environment             | Blah, Blah, Blah |
+| Active Directory Monitoring Projects | Monitoring Active directory events and security alerts |
+| Ethical Hacking Projects for Beginners | Hands-on projects for Ethical hacking and penetration testing |
+| Windows Forensics Projects for Beginners | Practical exercises on Windows forensics and analysis |
 
 
 ⚾️ Currently At-Bat (What I am Doing Now)
