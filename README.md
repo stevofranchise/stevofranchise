@@ -1,16 +1,49 @@
-## Hello, There 👋
+# Hello, There 👋
 
 I am proficient in Cloud Computing, System Administration, and Cybersecurity.
 
+System Administration
+------------------------
+* Launched and maintained over 800 virtual machines across Red Hat (RHEL), CentOS, macOS, and Windows/PC environments.
+* Leveraged Linux Bash/CLI and Ansible for configuration, patching, upgrades, and user management
+* Supported MDM migration and solutions (JAMF, Cisco Meraki, Intune)
+* Configured ser provisioning and Single Sign-On (SSO)
+* Monitored infrastructure using SolarWinds, Datadog, Grafana, and CheckMK
+* Supported hypervisors:
+  * iLO, iDRAC, XClarity
+* Supported Active Directory and FortiNet VPNs
+
 Cloud Computing
 ---------------
-- Skilled in deploying and maintaining 800+ virtual machines across Linux (RHEL, CentOS), macOS, and Windows environments. Proficient in AWS (EC2, Lambda, S3, Cognito, etc.), Azure support, and automation via Bash and Ansible. 
+* Launched and managed AWS environments to deliver scalable solutions and support ad-hoc projects
+  * EC2
+  * Amplify
+  * Cognito
+  * Lambda
+  * IAM
+  * DynamoDB
+  * API Gateway
+  * S3
 
-Implemented CrowdStrike Falcon Complete MDR, supported vulnerability management.
+CyberSecurity
+--------------
+* Configured and launched CrowdStrike Falcon Complete MDR (Managed Detection & Response) environment
+* Supported periodic policy and vulnerability checks
+* Served as primary liaison and SME for proprietary applications, streamlining processes, presenting technical proposals, and collaborating with global teams across NAMER, LATAM, EMEA, and APAC.
 
-I have monitored infrastructure with SolarWinds, Datadog, Grafana, and CheckMK. 
+Currently At-Bat
+---
+* CompTIA Security+ certification (November 2025)
 
-Strong background in Active Directory, VPNs, MDM (JAMF, Meraki, Intune), and hypervisors. Acted as SME and global liaison for proprietary applications. Currently pursuing CompTIA Security+ and Network+ to strengthen cloud and cybersecurity expertise.
+On-Deck
+---
+* CompTIA Network+ certification (January 2026)
+
+
+to enhance cloud computing and cybersecurity skills.
+
+
+
 <!--
 **stevofranchise/stevofranchise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
