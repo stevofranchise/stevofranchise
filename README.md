@@ -1,10 +1,23 @@
-# Hello, There 👋
+# ✌🏻 Hello, I am Steve!
 
-I am proficient in Cloud Computing, System Administration, and Cybersecurity.
-My goal is to enhance cloud computing and cybersecurity skills.
+I am passionate about Cloud Computing, System Administration, and Cybersecurity.
+My goal is to enhance my skills in each of those areas.
 
-Here is a quick professional Bio...
+---
 
+
+
+⚾️ Currently At-Bat (What I am Doing Now)
+ ---
+* CompTIA Security+ Certification (Estimated: November 2025)
+
+
+⏭️ On-Deck (What Is Next)
+---
+* CompTIA Network+ Certification (Estimated: January 2026)
+
+-----
+# Quick Bio.: #
 💻 System Administration
 ------------------------
 * Launched and maintained over 800 virtual machines across Red Hat (RHEL), CentOS, macOS, and Windows/PC environments.
@@ -30,13 +43,7 @@ Here is a quick professional Bio...
  * CrowdStrike implementation
  * Kali Linux Pen-Test OS
 
-⚾️ Currently At-Bat
----
-* CompTIA Security+ Certification (Estimated: November 2025)
 
-⏭️ On-Deck
----
-* CompTIA Network+ Certification (Estimated: January 2026)
 
 
 
