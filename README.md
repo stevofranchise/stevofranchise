@@ -1,73 +1,11 @@
-# ✌🏻 Hello, I am Steve!
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stevofranchise&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=stevofranchise&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevofranchise&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-I am passionate about Cloud Computing, System Administration, and Cybersecurity.
-My goal is to enhance my skills in each of those areas.
-
-*WRITE MORE*
 ---
+[![](https://visitcount.itsvg.in/api?id=stevofranchise&icon=0&color=0)](https://visitcount.itsvg.in)
 
-| Project Name                         | Description                                         |
-|--------------------------------------|-----------------------------------------------------|
-| AWS Environment             | Blah, Blah, Blah |
-| Active Directory Monitoring Projects | Monitoring Active directory events and security alerts |
-| Ethical Hacking Projects for Beginners | Hands-on projects for Ethical hacking and penetration testing |
-| Windows Forensics Projects for Beginners | Practical exercises on Windows forensics and analysis |
-
-
-⚾️ Currently At-Bat (What I am Doing Now)
- ---
-* CompTIA Security+ Certification (Estimated: November 2025)
-
-
-⏭️ On-Deck (What Is Next)
----
-* CompTIA Network+ Certification (Estimated: January 2026)
-
------
-# Quick Bio.: #
-💻 System Administration
-------------------------
-* Launched and maintained over 800 virtual machines across Red Hat (RHEL), CentOS, macOS, and Windows/PC environments.
-* Leveraged Linux Bash/CLI and Ansible for configuration, patching, upgrades, and user management
-* Supported MDM migration and solutions (JAMF, Cisco Meraki, Intune)
-* Configured and provisioned Single Sign-On (SSO)
-* Monitored infrastructure using SolarWinds, Datadog, Grafana, and CheckMK
-* Supported hypervisors:
-  * iLO, iDRAC, XClarity
-* Supported Active Directory and FortiNet VPNs
-
-☁ Cloud Computing
----------------
-* Launched and managed AWS environments to deliver scalable solutions and support ad-hoc projects
-  * EC2, Amplify, Cognito, Lambda, IAM, DynamoDB, API Gateway, S3
-
-🔐 CyberSecurity
---------------
-* Configured and launched CrowdStrike Falcon Complete MDR (Managed Detection & Response) environment
-* Supported periodic policy and vulnerability checks
-* Spearheaded cybersecurity projects:
- * SOC audits
- * CrowdStrike implementation
- * Kali Linux Pen-Test OS
-
-
-
-
-
-
-
-
-<!--
-**stevofranchise/stevofranchise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
